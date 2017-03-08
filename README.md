@@ -15,3 +15,5 @@ General:
 
 1. Recursion
 2. Stacks/ Queues
+3. Binary Trees
+4. General Divide and Conquer
