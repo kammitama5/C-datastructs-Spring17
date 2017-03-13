@@ -10,6 +10,8 @@ Review:
 2. pointers
 3. overloading
 4. destructors
+5. Templates, function templates
+6. Vectors
 
 General:
 
