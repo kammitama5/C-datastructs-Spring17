@@ -12,6 +12,7 @@ Review:
 4. destructors
 5. Templates, function templates
 6. Vectors
+7. Nullptr
 
 General:
 
@@ -19,3 +20,4 @@ General:
 2. Stacks/ Queues
 3. Binary Trees
 4. General Divide and Conquer
+5. Bags/ containers
