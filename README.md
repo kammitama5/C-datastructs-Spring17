@@ -21,3 +21,4 @@ General:
 3. Binary Trees
 4. General Divide and Conquer
 5. Bags/ containers
+6. Linked Lists
