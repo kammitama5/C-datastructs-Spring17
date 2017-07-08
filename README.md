@@ -22,3 +22,11 @@ General:
 4. General Divide and Conquer
 5. Bags/ containers
 6. Linked Lists
+7. Backtracking (N-Queens problem)
+8. Polymorphism
+9. Function Templating
+10. Linked Arrays
+1l. Graphs/ Directed
+12. Topos Search
+
+- May use this for Advanced C++ class, but if so will use designated folders
